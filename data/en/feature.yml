@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : How we work.
+  content : "."
+  feature_item : 
+      # feature item loop
+    - title : Agile with Sprints
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We work with Agile since 2006 with 2 weeks sprint routine. 
+      
+      # feature item loop
+    - title : Transparency and feedback
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We will should you what we do and we appreciate feedback from you.
+      
+      # feature item loop
+    - title : Cloud hosting
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Azure or AWS - we have it. 
+
+      # feature item loop
+    - title : Remote in European timezone
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : It turns out that we can not fight with physics (like timezone) 
