@@ -2,13 +2,13 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : "Consulting ?\\\nDevelopment ?\\\nComplete solution delivery ?\\\nNeed an agile team ?"
+  subtitle : "Consulting ?\\\nDevelopment ?\\\nComplete solution delivery ?\\\nDedicated agile team ?"
   content : 
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Unit 4e Enterprise Court, Farfield Park, Rotherham, S63 5DB"
+      info : "Unit 4e Enterprise Court, Farfield Park, Rotherham, S63 5DB, United Kingdom"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"

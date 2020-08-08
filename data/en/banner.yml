@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Scale up your cloud service"
-  content : "We are a software house ready to design, build and scale your solution"
+  content : "We are a software house ready to design, build and scale your solution."
   button:
     enable : true
     label : "Estimate my project"

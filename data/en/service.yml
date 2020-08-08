@@ -9,7 +9,7 @@ service:
       content : Every day we create software based on various programming languages. Most often in .NET, but also in R, python and javascript.
       
     # service item loop
-    - name : CloudNative
+    - name : Cloud-Native
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : We build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds.
       

@@ -3,7 +3,7 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Let's create something great together"
+  title : "Let's create great things together"
   content : ""
   button:
     enable : true
