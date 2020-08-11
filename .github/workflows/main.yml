@@ -41,7 +41,7 @@ jobs:
       env:
         PUBLISH_BRANCH: gh-pages
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         publish_dir: ./public
       
     # Runs a set of commands using the runners shell
