@@ -40,7 +40,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v2
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUBACTION_TOKEN }}
-        EXTERNAL_REPOSITORY: username/external-repository
+        EXTERNAL_REPOSITORY: website/bnbsystems
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./public
       with:
