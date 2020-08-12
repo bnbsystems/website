@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : .NET/R
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Every day we create software based on various programming languages. Most often in .NET, but also in R, python and javascript.
+      content : Every day We create software based on various programming languages. Most often in .NET, but also in R, python and javascript.
       
     # service item loop
     - name : Cloud-Native

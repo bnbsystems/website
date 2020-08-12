@@ -8,10 +8,11 @@ contact:
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Unit 4e Enterprise Court, Farfield Park, Rotherham, S63 5DB, United Kingdom"
+      info : "Poland"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
             
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: hello [at] bnbsystems.eu"
+      

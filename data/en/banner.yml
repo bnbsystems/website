@@ -8,5 +8,5 @@ banner:
   content : "We are a software house ready to design, build and scale your solution."
   button:
     enable : true
-    label : "Estimate my project"
-    link : "#contact"
+    label : "What We Do"
+    link : "#services"
