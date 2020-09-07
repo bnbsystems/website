@@ -23,6 +23,10 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.css]]
+link = "https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"
+[[params.plugins.css]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css"
 
 # js plugins
 [[params.plugins.js]]
@@ -39,6 +43,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
+[[params.plugins.js]]
+link = "https://kit.fontawesome.com/samplekit.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
@@ -60,13 +66,13 @@ weight = 4
 
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 6
-
-[[menu.main]]
 name = "Case studies"
 URL = "case-studies"
+weight = 5
+
+[[menu.main]]
+name = "Careers"
+URL = "careers"
 weight = 6
 
 [[menu.main]]
@@ -74,10 +80,7 @@ name = "Contact"
 URL = "contact"
 weight = 7
 
-[[menu.main]]
-name = "Careers"
-URL = "careers"
-weight = 7
+
 
 
 ############################# Default Parameters ##########################
@@ -99,30 +102,30 @@ preloader = "images/logo.png"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDGBpnOFULQtKVU3lJsWX_kfT400WYl62g"
 map_latitude = "53.5045168,"
-map_longitude = "-1.3260762"
+map_longitude = "10.985072"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-github" 
 link = "https://github.com/bnbsystems"
 
 [[params.social]]
-icon = "ti-book" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-book" 
 link = "https://bnbsystems.atlassian.net/wiki/spaces/BS/overview"
 
 [[params.social]]
-icon = "ti-trello" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-trello" 
 link = "https://trello.com/bnbsystems/"
 
 [[params.social]]
-icon = "ti-view-grid" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-view-grid" 
 link = "https://bnbsystemsworkspace.slack.com/"
 
 [[params.social]]
-icon = "ti-calendar" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-calendar" 
 link = "https://calendly.com/bnbsystemsltd"
 
 

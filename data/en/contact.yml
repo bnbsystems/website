@@ -7,12 +7,12 @@ contact:
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-location-pin 
       info : "Poland"
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-mobile 
       info : "Phone: +880-31-000-000"
             
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-email 
       info : "Email: hello [at] bnbsystems.eu"
       

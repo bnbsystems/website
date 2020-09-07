@@ -1,7 +1,7 @@
 ---
 title: "How To Setup Meghna Hugo"
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
+image_webp: images/case-study/roche_logo.webp
+image: images/case-study/roche_logo.png
 description : "This is meta description"
 technologies:  R, CICD, python, docker, kubernetes
 industry: Healthcare

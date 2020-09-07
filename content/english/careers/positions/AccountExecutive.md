@@ -1,8 +1,6 @@
 ---
 title: "Account Executive"
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-workplace: Berlin
+workplace: Berlin DE, Zurich CH,
 ---
 
 # Join BnB Business Development Team!

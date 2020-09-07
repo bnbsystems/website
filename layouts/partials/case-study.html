@@ -1,28 +1,28 @@
 {{ if gt .Site.RegularPages 0}}
-{{"<!-- Start Blog Section -->" | safeHTML}}
-<section id="blog" class="section">
+{{"<!-- Start Case Study Section -->" | safeHTML}}
+<section id="case-studies" class="section">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML}}
 				<div class="title text-center wow fadeInDown">
-					<h2>{{ with i18n "blogTitle" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
-						{{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					<h2>{{ with i18n "caseStudiesTitle" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with i18n "caseStudiesTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where .Site.RegularPages "Section" "==" "blog")}}
+			{{ range first 3 (where .Site.RegularPages "Section" "==" "case-studies")}}
 			{{ .Render "article"}}
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main"
-					href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+					href="{{ `case-studies` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
 		</div>
 	</div>
 </section>
-{{"<!-- /blog -->" | safeHTML}}
+{{"<!-- /case-studies -->" | safeHTML}}
 {{ end }}

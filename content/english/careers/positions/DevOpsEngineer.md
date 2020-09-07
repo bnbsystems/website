@@ -1,7 +1,5 @@
 ---
 title: "DevOps Engineer"
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
 workplace: London
 ---
 

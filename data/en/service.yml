@@ -5,30 +5,30 @@ service:
   service_item :
     # service item loop
     - name : .NET/R
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : devicon-dot-net-plain 
       content : Every day We create software based on various programming languages. Most often in .NET, but also in R, python and javascript.
       
     # service item loop
     - name : Cloud-Native
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      icon : ti-cloud 
       content : We build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds.
       
     # service item loop
-    - name : Microservices and Containers
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - name : Containers
+      icon : devicon-docker-plain 
       content : Kubernetes is our way to host a microservice-based implementation with elastic scaling.
       
     # service item loop
     - name : Machine Learning 
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      icon : fas  fa-brain 
       content : Machine Learning helps use to make good decisions and predictions.
       
     # service item loop
     - name : CI/CD
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      icon : devicon-gradle-plain 
       content : We automate build process and deliver to you the best solution.
       
     # service item loop
     - name : Testing
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      icon : fas fa-flask 
       content : Every component is well tested while we have test in mind.

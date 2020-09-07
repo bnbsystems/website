@@ -10,13 +10,13 @@ team:
       designation : Architect
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook 
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin 
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble 
           link : "#"
         
     # team member loop
@@ -26,13 +26,13 @@ team:
       designation : Sales engineering  
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook 
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt 
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin 
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble 
           link : "#"
         
 

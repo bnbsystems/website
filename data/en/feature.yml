@@ -8,20 +8,20 @@ feature:
   feature_item : 
       # feature item loop
     - title : Agile with Sprints
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : We work with Agile since 2006 with 2 weeks sprint routine. 
+      icon : ti-world 
+      content : We work with Agile since 2006. 
       
       # feature item loop
-    - title : Transparency and feedback
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+    - title : Transparency and feedbacks
+      icon : ti-bar-chart
       content : We show you what We do and We appreciate feedback from you.
       
       # feature item loop
     - title : Cloud hosting
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Azure or AWS - We have it. As cloud native team we host everything in cloud.  
+      icon : ti-cloud
+      content : Azure or AWS - We have it.
 
       # feature item loop
     - title : Remote in European timezone
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-timer
       content : It turns out that we can not fight with physics (like timezone) 

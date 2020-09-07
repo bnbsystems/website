@@ -3,9 +3,9 @@ banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Scale up your cloud service"
-  content : "We are a software house ready to design, build and scale your solution."
+  icon : "" 
+  title : "Scale up your service"
+  content : "We are a software house ready to design, build and scale your solutions."
   button:
     enable : true
     label : "What We Do"

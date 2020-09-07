@@ -1,9 +1,13 @@
-- id: blogTitle
-  translation: Case studies
+- id: caseStudiesTitle
+  translation: Case Studies
+- id: careersTitle
+  translation: Open Positions
 - id: readMore
   translation: Read more
 - id: viewAllPost
   translation: View All success stories
+- id: viewAllPositions
+  translation: View All open positions
 - id: share
   translation: Share
 - id: aboutAuthor
