@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://bnbsystems.github.io/website"
+baseURL = "https://bnbsystems.org"
 title = "BnB Systems"
 theme = "meghna-hugo"
 # post pagination
