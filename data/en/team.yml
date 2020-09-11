@@ -4,7 +4,7 @@ team:
   title : "Meet Founders"
   team_member :
       # team member loop
-    - name : Dawid Bee
+    - name : Dawid B
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Architect
@@ -20,7 +20,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Arek Bee
+    - name : Arek B
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Sales engineering  

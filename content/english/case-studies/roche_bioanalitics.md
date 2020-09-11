@@ -1,5 +1,5 @@
 ---
-title: "How To Setup Meghna Hugo"
+title: "Portable medical research platform"
 image_webp: images/case-study/roche_logo.webp
 image: images/case-study/roche_logo.png
 description : "This is meta description"
