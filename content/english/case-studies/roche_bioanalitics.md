@@ -9,5 +9,5 @@ project_goal: Build portable analytical platform
 location: Switzerland
 ---
 
-## Install this template by following those simple steps
 
+## From regulation, building scalable IT-infrastructures to running drug simulations

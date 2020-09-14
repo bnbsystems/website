@@ -11,7 +11,4 @@ project_goal: Build trading platform
 location: United Kingdom, India
 ---
 
-## From regulation, building scalable IT-infrastructures to testing risk models
-
 ## We cover the entire range of bank-specific issues
-

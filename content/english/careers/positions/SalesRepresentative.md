@@ -1,48 +1,29 @@
 ---
-title: "Frontend Developer"
+title: "Sales Representative"
 workplace: Remote
 ---
 
-Tedee - Sales Representative with Dutch, French, Spanish or Italian 
+# Minimum qualifications
 
-If you are an independent, creative person who focuses on achieving results rather then hours logged then we have something for you.  
-In this position you will be solely responsible for building and extending the customer base in a given country. You will be representing the needs and interests of our accounts, and continuously expand the relationships with them. With your market know-how you understand the individual challenges of our partners in the individual markets and support them in positioning our products in the best possible way. 
-  
-YOUR ROLE:
- 
-Building and expanding of the customer base structure in given territory (enrolling local distributors, locksmiths and sales agencies) 
-Ensuring the quality of services provided by locksmiths  
-Overlooking and coordinating marketing activities related to your territory (close cooperation with marketing department) 
-Commercial preparation of offer documents and preparation of price calculations 
-Cooperation in representing Tedee at events 
-Maintenance quality of data in CRM  
-  
- JOB REQUIREMENTS:
+* at least 1 year of professional experience in sales or business development
+* English is a must
+* native speaker in German
+* proactive approach and goal oriented
+* experience with making cold calling 
+* extroverted personality, who actively seeks conversation and enjoys dealing with people 
 
-Native or fluent speaker in Dutch, French, Spanish or Italian 
-At least 1 year of professional experience in sales or business development, ideally in consumer electronics 
-Enthusiasm for the development of new business areas and markets as well as the introduction of new products 
-Experience with making cold calling 
-Extroverted personality, who actively seeks conversation and enjoys dealing with people 
-Good knowledge of English  
-A high degree of team orientation and self-motivation 
-Proactive approach and goal oriented  
-Excellent communication & organizational skills 
-  
-Nice to have: 
+# Responsibilities
 
-Completed training in the field of marketing/sales/business development 
-  
-WHAT WE OFFER:
-  
-Salary base up to 5000 net on b2b and sales commission up to 150% of your salary base 
-All necessary licenses and tools for performing work 
-Co-financing of Multisport card 
-Co-financing of Medical Care 
-Co-financing additional group insurance 
-Mentorship 
-Remote work (we have office is in Warsaw, but you can work from wherever you want) 
-Flexible working hours (we’re looking for results not working hours) 
-Informal and supporting atmosphere
+* implement an effective sales strategy that maximizes the value delivered by Bnb to our Clients (managing the entire sales cycle from finding a client to securing a deal)
+* develop and widen a contact network that allows BnB services to be sold broadly and effectively
+* provide professional after-sales support
+* maintenance quality of data in CRM
+
+# About the job
+
+As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us. The right candidate will have a strong sales and customer service background as well as some solid experience in the IT area, ideally in a software house environment. In this role, you will be responsible for finding business opportunities and managing customer relationships. Your main focus will be on identifying opportunities with prospects and new clients and developing them into long-term business relationships.
+We work in a flat environment, so we value equality, being communicative, open-minded and not afraid of new things happening around and taking an initiative.
+
+# Join BnB Team!
 
 {{<disclaimer>}}

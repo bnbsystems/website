@@ -11,5 +11,4 @@ project_goal: Build platform for Risk measures
 location: United Kingdom, Switzerland, India, United State
 ---
 
-## WE’LL HELP YOU CREATE AN INNOVATIVE TECHNOLOGICAL FOOTPRINT THAT TAKES YOUR BUSINESS FORWARD
-
+## Creating an innovation technological footprint that take your business forward
