@@ -1,6 +1,7 @@
 ---
 title: "Sales Representative"
 workplace: Remote
+weight: 90
 ---
 
 # Minimum qualifications

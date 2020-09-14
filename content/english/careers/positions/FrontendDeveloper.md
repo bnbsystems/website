@@ -1,6 +1,7 @@
 ---
 title: "Frontend Developer"
 workplace: Remote
+weight: 100
 ---
 
 # Minimum qualifications

@@ -1,6 +1,7 @@
 ---
 title: "DevOps Engineer"
 workplace: Remote
+weight: 110
 ---
 
 # Minimum qualifications:

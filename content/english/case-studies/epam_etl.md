@@ -9,6 +9,7 @@ technologies:  .NET, Big Data, CICD
 industry: Banking
 project_goal: Build trading platform
 location: United Kingdom, India
+weight: 100
 ---
 
 ## We cover the entire range of bank-specific issues

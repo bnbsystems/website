@@ -7,6 +7,7 @@ technologies:  R, CICD, python, docker, kubernetes
 industry: Healthcare
 project_goal: Build portable analytical platform 
 location: Switzerland
+weight: 110
 ---
 
 
