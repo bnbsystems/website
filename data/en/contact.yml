@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : "Consulting ?\\\nDevelopment ?\\\nComplete solution delivery ?\\\nDedicated agile team ?"
   content : 
-  form_action: "#" #contact form works with https://formspree.io
+  form_action: "https://formspree.io/f/xleogrvq" #contact form works with https://formspree.io
 
   contact_details :
     - icon : ti-location-pin 
