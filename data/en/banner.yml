@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" 
   title : "Scale up your services"
-  content : "We are a software house ready to design, build and scale your solutions."
+  content : "We are the Software People ready to design, build and scale your solutions."
   button:
     enable : true
     label : "What We Do"
