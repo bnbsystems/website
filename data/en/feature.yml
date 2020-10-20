@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/how-we-work.jpg
+  image_webp : images/about/how-we-work.webp
   title : How we work.
   content : "."
   feature_item : 

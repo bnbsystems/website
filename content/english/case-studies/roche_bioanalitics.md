@@ -1,7 +1,7 @@
 ---
 title: "Portable medical research platform"
-image_webp: images/case-study/roche_logo.webp
-image: images/case-study/roche_logo.png
+image_webp: images/case-study/CaseStudies-roche.webp
+image: images/case-study/CaseStudies-roche.jpg
 description : "This is meta description"
 technologies:  R, CICD, python, docker, kubernetes
 industry: Healthcare

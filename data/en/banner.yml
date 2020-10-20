@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/main-bg.webp"
+  bg_image : "images/backgrounds/main-bg.jpg"
   icon : "" 
   title : "Scale up your services"
   content : "We are the Software People ready to design, build and scale your solutions."
