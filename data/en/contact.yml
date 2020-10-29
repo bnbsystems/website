@@ -2,7 +2,7 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : "Consulting ?\\\nDevelopment ?\\\nComplete solution delivery ?\\\nDedicated agile team ?"
+  subtitle : "Consulting ?\\\n<span>Development ?</span>\\\nComplete solution delivery ?\\\n<span>Dedicated agile team ?</span>"
   content : 
   form_action: "https://formspree.io/f/xleogrvq" #contact form works with https://formspree.io
 
