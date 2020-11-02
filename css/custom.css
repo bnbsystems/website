@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 html {
 	background-color: #353b43;
@@ -396,18 +397,23 @@ a:hover {
 .navigation {
 	background-color: #56cdcb;
 	width: 100%;
-	margin-bottom: 0
+	margin-bottom: 0;
+	font-family: 'Quattrocento Sans', sans-serif;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-	color: #57cbcc
+	color: #aae6e5;
 }
 
 .navbar-toggler:focus {
 	outline: 0
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
 }
 
 .bg-1 {
@@ -500,6 +506,13 @@ a:hover {
 	.hero-area .block h1 {
 		font-size: 60px
 	}
+
+	button.navbar-toggler.rounded-0 {
+		position: absolute;
+		right: 15px;
+		top: 10px;
+	}
+	
         .hero-area .block {
             text-align: center;
         }
