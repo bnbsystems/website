@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/how-we-work.jpg
   image_webp : images/about/how-we-work.webp
-  title : How we work.
-  content : "."
+  title : How we work
+  content : ""
   feature_item : 
       # feature item loop
     - title : Agile with Sprints
