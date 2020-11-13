@@ -4,8 +4,7 @@ workplace: Remote
 weight: 110
 ---
 
-# Minimum qualifications:
-
+# Minimum qualifications
 * at least 5 year of professional experience in building software
 * proven experience as a DevOps on cloud provider (AWS or Azure)
 * hands-on experience with Kubernetes and Docker
