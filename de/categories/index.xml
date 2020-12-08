@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BnB Systems</title>
-    <link>https://bnbsystems.org/fr/categories/</link>
+    <link>https://bnbsystems.org/de/categories/</link>
     <description>Recent content in Categories on BnB Systems</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>copyright et copie; 2020 tous droits réservés</copyright>
+    <language>de-de</language>
+    <copyright>urheberrechte &amp;copy; 2020 alle Rechte vorbehalten</copyright>
     
-	<atom:link href="https://bnbsystems.org/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bnbsystems.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

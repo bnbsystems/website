@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bnbsystems.org/fr/</loc>
+    <loc>https://bnbsystems.org/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,13 +11,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://bnbsystems.org/fr/"
+                hreflang="de"
+                href="https://bnbsystems.org/de/"
                 />
   </url>
   
   <url>
-    <loc>https://bnbsystems.org/fr/categories/</loc>
+    <loc>https://bnbsystems.org/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,13 +25,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://bnbsystems.org/fr/categories/"
+                hreflang="de"
+                href="https://bnbsystems.org/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bnbsystems.org/fr/tags/</loc>
+    <loc>https://bnbsystems.org/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,8 +39,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://bnbsystems.org/fr/tags/"
+                hreflang="de"
+                href="https://bnbsystems.org/de/tags/"
                 />
   </url>
   
