@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/how-we-work.jpg
   image_webp : images/about/how-we-work.webp
-  title : How we work
+  title : Wie wir arbeiten
   content : ""
   feature_item : 
       # feature item loop
-    - title : Agile with Sprints
+    - title : Agile mit Sprints
       icon : ti-world 
-      content : We work with Agile since 2006. 
+      content : Wir arbeiten seit 2006 mit Agile.
       
       # feature item loop
-    - title : Transparency and feedbacks
+    - title : Transparenz und Rückmeldungen
       icon : ti-bar-chart
-      content : We show you what We do and We appreciate feedback from you.
+      content : Wir zeigen Ihnen, was wir tun und freuen uns über Ihr Feedback.
       
       # feature item loop
     - title : Cloud hosting
       icon : ti-cloud
-      content : Azure or AWS - We have it.
+      content : Azure oder AWS - Wir haben es.
 
       # feature item loop
-    - title : Remote in European timezone
+    - title : Heimarbeit in der europäischen Zeitzone
       icon : ti-timer
-      content : It turns out that, no one can win with time zones. 
+      content : Es stellt sich heraus, dass niemand mit Zeitzonen gewinnen kann. 

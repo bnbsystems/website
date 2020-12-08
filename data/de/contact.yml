@@ -1,0 +1,18 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontaktiere Uns
+  subtitle : "Beratung ?\\\n<span>Software Entwicklung ?</span>\\\nnVollständige Lösungsbereitstellung?\\\n<span>Engagiertes Agile Team??</span>"
+  content : 
+  form_action: "https://formspree.io/f/xleogrvq" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin 
+      info : "Poland"
+      
+    - icon : ti-mobile 
+      info : "Phone: +880-31-000-000"
+            
+    - icon : ti-email 
+      info : "Email: hello [at] bnbsystems.org"
+      

@@ -8,7 +8,7 @@ team:
       image_webp : images/team/Team-01.webp
       image : images/team/Team-01.jpg
       designation : Sales Engineer
-      content : Searching for reliable client who would benefit from our help.
+      content : Suche nach einem zuverlässigen Kunden, der von unserer Hilfe profitieren würde.
       social :
         - icon : ti-facebook 
           link : "#"
@@ -22,7 +22,7 @@ team:
       image_webp : images/team/Team-02.webp
       image : images/team/Team-02.jpg
       designation : Architect
-      content : Design and implementation of the best solution for our client.
+      content : Design und Implementierung der besten Lösung für unseren Kunden.
       social :
         - icon : ti-facebook 
           link : "#"

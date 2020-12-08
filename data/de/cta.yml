@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Lassen Sie uns gemeinsam großartige Dinge schaffen"
+  content : ""
+  button:
+    enable : true
+    label : "Starten Sie mit uns ein Projekt"
+    link : "#contact"

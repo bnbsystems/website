@@ -1,0 +1,17 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Über Uns
+  about_item :
+  - icon : ti-ruler-pencil 
+    title : Wir arbeiten hart
+    content : Wir widmen uns der Softwareentwicklung.
+
+  - icon : ti-cup 
+    title : Wir sind professionell
+    content : Die durchschnittliche Programmiererfahrung unseres Teams beträgt mehr als 10 Jahre.
+
+
+  - icon : ti-money 
+    title : Wir liefern Wert
+    content : Wir verbessern die Effizienz von Software-Engineering-Teams, um die Geschäftsergebnisse zu optimieren.

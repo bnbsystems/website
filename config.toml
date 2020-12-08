@@ -60,13 +60,10 @@ name = "Service"
 URL = "services"
 weight = 2
 
-
-
 [[menu.main]]
 name = "Founders"
 URL = "team"
 weight = 4
-
 
 [[menu.main]]
 name = "Case studies"
@@ -113,23 +110,23 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-github" 
-#link = "https://github.com/bnbsystems"
+link = "https://github.com/bnbsystems"
 
 [[params.social]]
 icon = "ti-book" 
-#link = "https://bnbsystems.atlassian.net/wiki/spaces/BS/overview"
+link = "https://bnbsystems.atlassian.net/wiki/spaces/BS/overview"
 
 [[params.social]]
 icon = "ti-trello" 
-#link = "https://trello.com/bnbsystems/"
+link = "https://trello.com/bnbsystems/"
 
 [[params.social]]
 icon = "ti-view-grid" 
-#link = "https://bnbsystemsworkspace.slack.com/"
+link = "https://bnbsystemsworkspace.slack.com/"
 
 [[params.social]]
 icon = "ti-calendar" 
-#link = "https://calendly.com/bnbsystemsltd"
+link = "https://calendly.com/bnbsystemsltd"
 
 
 
@@ -142,11 +139,11 @@ weight = 1
 home = "Home"
 copyright = "copyright &copy; 2020 all right reserved"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################ Deutsch Language ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/deutsch"
 weight = 2
-home = "Accueil"
-copyright = "copyright et copie; 2020 tous droits réservés"
+home = "Home"
+copyright = "urheberrechte &copy; 2020 alle Rechte vorbehalten"

@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Unsere Leistungen
+  service_item :
+    # service item loop
+    - name : .NET/R
+      icon : devicon-dot-net-plain 
+      content : Jeden Tag erstellen wir Software basierend auf verschiedenen Programmiersprachen. Meistens in .NET, aber auch in R, Python und Javascript.
+
+    # service item loop
+    - name : Cloud-Native
+      icon : ti-cloud 
+      content : Wir erstellen und führen skalierbare Anwendungen in modernen, dynamischen Umgebungen wie öffentlichen, privaten und Hybrid-Clouds aus.
+      
+    # service item loop
+    - name : Containers
+      icon : devicon-docker-plain 
+      content : Mit Kubernetes können wir eine Microservice-basierte Implementierung mit elastischer Skalierung hosten.
+      
+    # service item loop
+    - name : Machine Learning 
+      icon : fas  fa-brain 
+      content : Maschinelles Lernen hilft dabei, gute Entscheidungen und Vorhersagen zu treffen.
+      
+    # service item loop
+    - name : CI/CD
+      icon : devicon-gradle-plain 
+      content : Wir automatisieren den Build-Prozess und liefern Ihnen die beste Lösung.
+      
+    # service item loop
+    - name : Testen
+      icon : fas fa-flask 
+      content : Jede Komponente ist gut getestet, während wir den Test im Auge haben.

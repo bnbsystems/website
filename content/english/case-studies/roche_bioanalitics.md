@@ -11,4 +11,4 @@ weight: 110
 ---
 
 
-## From regulation, building scalable IT-infrastructures to running drug simulations
+## From regulation to building scalable IT-infrastructures for drug simulations
