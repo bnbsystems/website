@@ -11,10 +11,21 @@
 
 	{{ template "_internal/google_analytics.html" . }}
 
+
 	{{ "<!-- plugins -->" | safeHTML }}
 	{{ range .Site.Params.plugins.css }}
 	<link rel="stylesheet" href="{{ .link | absURL }}">
 	{{ end }}
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-T4XELTK9NM"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-T4XELTK9NM');
+	</script>
 
 	{{"<!-- Main Stylesheet -->"|safeHTML}}
 	{{ $styles := resources.Get "css/style.css" | minify}}
