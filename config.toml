@@ -90,7 +90,7 @@ logo = "images/logo.png"
 description = "BnB Systems - Scale Up Your Services"
 author = "BnB Systems"
 # Google Analitycs
-google_analitycs_id = "" # Your ID
+google_analitycs_id = "G-T4XELTK9NM" # Your ID
 # post share
 post_share = true
 
