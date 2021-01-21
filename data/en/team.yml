@@ -4,7 +4,7 @@ team:
   title : "Meet Founders"
   team_member :
       # team member loop
-    - name : Arek B
+    - name : Arek Beer
       image_webp : images/team/Team-01.webp
       image : images/team/Team-01.jpg
       designation : Sales Engineer
@@ -13,12 +13,12 @@ team:
         - icon : ti-facebook 
           link : "#"
         - icon : ti-twitter-alt 
-          link : "#"
+          link : "https://twitter.com/arekbee"
         - icon : ti-linkedin 
           link : "https://www.linkedin.com/in/arkadiusz-beer-56a11152/"
         - icon : ti-dribbble 
-          link : "#"
-    - name : Dawid B
+          link : "http://arekonsoftware.pl/"
+    - name : Dawid Beer
       image_webp : images/team/Team-02.webp
       image : images/team/Team-02.jpg
       designation : Architect
