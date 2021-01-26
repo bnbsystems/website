@@ -8,11 +8,11 @@ contact:
 
   contact_details :
     - icon : ti-location-pin 
-      info : "Poland"
+      info : "S63 5DB, Farfield Park, Rotherham, United Kingdom"
       
     - icon : ti-mobile 
-      info : "Phone: +880-31-000-000"
+      info : "Phone: 07 831 187 053"
             
     - icon : ti-email 
-      info : "Email: hello [at] bnbsystems.org"
+      info : "Email: anna.schmidt [at] bnbsystems.org"
       
