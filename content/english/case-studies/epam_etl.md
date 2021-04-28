@@ -1,7 +1,7 @@
 ---
-title: "OTC trading platform"
+title: "ETL trading platform for OTC"
 date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
+author: Arek Beer
 image_webp: images/case-study/CaseStudies-epam.webp
 image: images/case-study/CaseStudies-epam.jpg
 description : "This is meta description"
@@ -15,9 +15,3 @@ weight: 100
 ## We cover the entire range of bank-specific issues
 
 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
