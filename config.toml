@@ -66,13 +66,13 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Case studies"
-URL = "case-studies"
+name = "Careers"
+URL = "careers"
 weight = 5
 
 [[menu.main]]
-name = "Careers"
-URL = "careers"
+name = "Case studies"
+URL = "case-studies"
 weight = 6
 
 [[menu.main]]
