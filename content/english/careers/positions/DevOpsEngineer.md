@@ -21,7 +21,6 @@ weight: 110
 As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us. The right candidate will have a strong understanding of building software. In this role, you will be responsible for automating all SDLC processes.
 We work in a flat environment, so we value equality, being communicative, open-minded and not afraid of new things happening around and taking an initiative.
 
-# Join BnB Team!
+{{%job_apply%}}
 
 {{<disclaimer>}}
-

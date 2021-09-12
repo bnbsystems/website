@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp : images/backgrounds/Testimonials.webp
   testimonial_item :
     # testimonial item loop
-    - name : Borys
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2019
-      content : This is simply unbelievable! I was amazed at the quality from BNB Systems. Containerization is the most valuable business resource we have EVER purchased.
+    # - name : Borys
+    #   image : images/client/client-1.jpg
+    #   image_webp : images/client/client-1.webp
+    #   date : Dec 26, 2019
+    #   content : This is simply unbelievable! I was amazed at the quality from BNB Systems. Containerization is the most valuable business resource we have EVER purchased.

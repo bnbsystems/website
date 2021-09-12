@@ -21,6 +21,6 @@ workplace: Hannover DE, Zurich CH,
 As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us. The right candidate will have a strong sales and customer service background as well as some solid experience in the IT area, ideally in a software house environment. In this role, you will be responsible for finding business opportunities and managing customer relationships. Your main focus will be on identifying opportunities with prospects and new clients and developing them into long-term business relationships.
 We work in a flat environment, so we value equality, being communicative, open-minded and not afraid of new things happening around and taking an initiative.
 
-# Join BnB Team!
+{{%job_apply%}}
 
 {{<disclaimer>}}
