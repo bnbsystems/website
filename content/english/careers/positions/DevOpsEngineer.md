@@ -5,16 +5,17 @@ weight: 110
 ---
 
 # Minimum qualifications
-* at least 5 year of professional experience in building software
-* proven experience as a DevOps on cloud provider (AWS or Azure)
-* hands-on experience with Kubernetes and Docker
+
+* at least a year of professional experience in building software
+* proven experience as a DevOps on Azure cloud provider (WebApps, Storage accounts, AD B2C, CosmosDB, Container registries)
+* hands-on experience with Docker and terraform
 * ability to solve network and application issues
-* communication skills with fluent English
 
 # Responsibilities
 
 * creating and constant improving of a delivery pipelines for various programming environments
 * sharing knowledge with your colleagues
+* building pipelines in GitHub
 
 # About the job
 

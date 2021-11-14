@@ -23,7 +23,8 @@ h6 {
 	color: #56cdcb;
 }
 
-p {
+p,
+li {
 	font-family: quattrocento sans, sans-serif;
         color: white;
 }

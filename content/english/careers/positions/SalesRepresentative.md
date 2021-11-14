@@ -6,7 +6,7 @@ weight: 90
 
 # Minimum qualifications
 
-* at least 1 year of professional experience in sales or business development
+* at least 3 year of professional experience in sales or business development
 * English is a must
 * native speaker in German
 * proactive approach and goal oriented
