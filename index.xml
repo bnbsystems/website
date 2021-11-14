@@ -13,21 +13,12 @@
     
     
     <item>
-      <title>Risk platform</title>
-      <link>https://bnbsystems.org/case-studies/ubs_dataplatform/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://bnbsystems.org/case-studies/ubs_dataplatform/</guid>
-      <description>From proof-of-concept to production deployment </description>
-    </item>
-    
-    <item>
       <title>Sales Representative</title>
       <link>https://bnbsystems.org/careers/positions/salesrepresentative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bnbsystems.org/careers/positions/salesrepresentative/</guid>
-      <description>Minimum qualifications  at least 1 year of professional experience in sales or business development English is a must native speaker in German proactive approach and goal oriented experience with making cold calling extroverted personality, who actively seeks conversation and enjoys dealing with people  Responsibilities  implement an effective sales strategy that maximizes the value delivered by Bnb to our Clients (managing the entire sales cycle from finding a client to securing a deal) develop and widen a contact network that allows BnB services to be sold broadly and effectively provide professional after-sales support maintenance quality of data in CRM  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
+      <description>Minimum qualifications  at least 3 year of professional experience in sales or business development English is a must native speaker in German proactive approach and goal oriented experience with making cold calling extroverted personality, who actively seeks conversation and enjoys dealing with people  Responsibilities  implement an effective sales strategy that maximizes the value delivered by Bnb to our Clients (managing the entire sales cycle from finding a client to securing a deal) develop and widen a contact network that allows BnB services to be sold broadly and effectively provide professional after-sales support maintenance quality of data in CRM  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
     </item>
     
     <item>
@@ -40,12 +31,12 @@
     </item>
     
     <item>
-      <title>Frontend Developer</title>
-      <link>https://bnbsystems.org/careers/positions/frontenddeveloper/</link>
+      <title>React Developer</title>
+      <link>https://bnbsystems.org/careers/positions/reactdeveloper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bnbsystems.org/careers/positions/frontenddeveloper/</guid>
-      <description>Minimum qualifications  at least 2 year of professional experience as Frontend Developer fluency in graphics programs (Gimp, Photoshop, Illustrator ) good understanding of CSS3 and HTML5 oriented on websites details creative, a sense of aesthetics and an expressive style  Responsibilities  Designing graphic and animated materials Building websites with javascript and css  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
+      <guid>https://bnbsystems.org/careers/positions/reactdeveloper/</guid>
+      <description>Minimum qualifications  at least a year of professional experience as react developer fluency in graphics programs (eg.</description>
     </item>
     
     <item>
@@ -54,7 +45,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bnbsystems.org/careers/positions/devopsengineer/</guid>
-      <description>Minimum qualifications  at least 5 year of professional experience in building software proven experience as a DevOps on cloud provider (AWS or Azure) hands-on experience with Kubernetes and Docker ability to solve network and application issues communication skills with fluent English  Responsibilities  creating and constant improving of a delivery pipelines for various programming environments sharing knowledge with your colleagues  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
+      <description>Minimum qualifications  at least a year of professional experience in building software proven experience as a DevOps on Azure cloud provider (WebApps, Storage accounts, AD B2C, CosmosDB, Container registries) hands-on experience with Docker and terraform ability to solve network and application issues  Responsibilities  creating and constant improving of a delivery pipelines for various programming environments sharing knowledge with your colleagues building pipelines in GitHub  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
     </item>
     
     <item>
@@ -85,6 +76,15 @@
     </item>
     
     <item>
+      <title>C# Developer</title>
+      <link>https://bnbsystems.org/careers/positions/csharpdeveloper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bnbsystems.org/careers/positions/csharpdeveloper/</guid>
+      <description>Minimum qualifications  at least a year of professional experience as C# Developer on ASP.NET core fluency in .</description>
+    </item>
+    
+    <item>
       <title>John Doe</title>
       <link>https://bnbsystems.org/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,12 +103,12 @@
     </item>
     
     <item>
-      <title>Quant / R Developer</title>
-      <link>https://bnbsystems.org/careers/positions/quant_rdeveloper/</link>
+      <title>R Developer</title>
+      <link>https://bnbsystems.org/careers/positions/rdeveloper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bnbsystems.org/careers/positions/quant_rdeveloper/</guid>
-      <description>Minimum qualifications  at least 2 year of professional experience as R Developer fluency in R and python (pandas) programming language mind of the researcher interest in capital markets  Responsibilities  building valuation model for capital markets or real estate automation of financial reports in R or python  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
+      <guid>https://bnbsystems.org/careers/positions/rdeveloper/</guid>
+      <description>Minimum qualifications  at least a year of professional experience as R Developer fluency in R programming language and packages like plumber, knitr, dplyr, remotes mind of the researcher interest in capital markets or real estate  Responsibilities  building valuation model automation of financial reports in Rmarkdown building shiny apps for dashboards  About the job As BnB grows we are expanding our Business Development Team and are looking for a new Teammate to join us.</description>
     </item>
     
   </channel>
