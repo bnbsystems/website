@@ -1,14 +1,13 @@
 ---
 title: "Accountancy on SaaS "
-date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
-image_webp: images/case-study/comarch_logo.webp
-image: images/case-study/comarch_logo.png
-description : "This is meta description"
-technologies:  R, Microsoft Azure, Docker, CICD, Machine Learning
+author: Arek Beer
+image_webp: images/case-study/CaseStudies-comarch.webp
+image: images/case-study/CaseStudies-comarch.jpg
+description : ""
+technologies:  Microsoft ASP.NET
 industry: Banking
-project_goal: Build platform for Risk measures
-location: United Kingdom, Switzerland, India, United State
+project_goal: Build platform for accounts
+location: Poland
 weight: 120
 ---
 
