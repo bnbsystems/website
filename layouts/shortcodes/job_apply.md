@@ -1,4 +1,4 @@
 # Join BnB Team!
 
-Please, send mail with you CV to  jadwiga [dot] lewandowska [at] bnbsystems.org
+Please, send an email with your CV to  jadwiga [dot] lewandowska [at] bnbsystems.org
 
