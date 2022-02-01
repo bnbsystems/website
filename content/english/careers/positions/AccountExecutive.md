@@ -6,7 +6,7 @@ workplace: Hannover DE, Zurich CH,
 # Minimum qualifications
 
 * proven experience as an Account Executive
-* a successful track record in software sales for at least 2 year of professional experience working in software projects
+* a successful track record in software sales for at least 2 years of professional experience working in software projects
 * advanced English is a must
 
 # Responsibilities
