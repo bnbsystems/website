@@ -10,8 +10,8 @@ contact:
     - icon : ti-location-pin 
       info : "S63 5DB, Farfield Park, Rotherham, United Kingdom"
       
-    #- icon : ti-mobile 
-    #  info : "Phone: +41 446 880 068"
+    - icon : ti-mobile 
+      info : "Phone: (+49) 1522 600 2458"
             
     - icon : ti-email 
       info : "Email: anna.schmidt [at] bnbsystems.org"
