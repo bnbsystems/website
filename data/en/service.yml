@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : Testing
       icon : fas fa-flask 
-      content : Every component is well tested while we have test in mind.
+      content : Every component is well tested as we always bear tests in mind.
