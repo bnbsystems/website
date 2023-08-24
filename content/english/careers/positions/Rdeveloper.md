@@ -1,6 +1,7 @@
 ---
 title: "R Developer"
 workplace: Remote
+weight: 130
 ---
 
 

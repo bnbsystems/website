@@ -1,23 +1,25 @@
 ---
-title: "DevOps Engineer"
+title: "Data Engineer"
 workplace: Remote
-weight: 110
+weight: 120
 ---
 
 # Minimum qualifications
 
 * at least a year of professional experience in building software
-* proven experience as a DevOps on Azure cloud provider (WebApps, Storage accounts, AD B2C, CosmosDB, Container registries)
-* hands-on experience with Docker and terraform
-* ability to solve network and application issues
-* senior DevOps status (gitlab certifiaction is a plus)
-
+* experience building data pipelines in Python (experience with PySpark is a plus)
+* understanding on AWS Cloud fundamentals
+* git & CI/CD knowledge is a must
+* Experience with common data Python libs (pandas, awswrangler,...)
+* Understands REST APIs from the consumer perspective
 
 # Responsibilities
 
-* creating and constant improving of a delivery pipelines for various programming environments
 * sharing knowledge with your colleagues
-* building pipelines in GitHub and GitLab
+* data on-boarding and hence custom integration work
+* working on AWS/Azure infrastructure
+* formation are responsibilities as well as writing unit/data tests
+* monitoring the quality of the overall on-boarding process.
 
 # About the job
 

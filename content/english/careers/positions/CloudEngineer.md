@@ -1,23 +1,23 @@
 ---
-title: "DevOps Engineer"
+title: "Cloud Engineer"
 workplace: Remote
-weight: 110
+weight: 120
 ---
 
 # Minimum qualifications
 
 * at least a year of professional experience in building software
-* proven experience as a DevOps on Azure cloud provider (WebApps, Storage accounts, AD B2C, CosmosDB, Container registries)
-* hands-on experience with Docker and terraform
-* ability to solve network and application issues
-* senior DevOps status (gitlab certifiaction is a plus)
-
+* understanding on public cloud providers, especially AWS Cloud ([AWS certification is adviced](https://aws.amazon.com/certification/certified-solutions-architect-associate/))
+* experience with cloud architectures
+* solid knowledge in infrastructure as code
+* good programming and problem solving skills, experience with python is a plus
+* git & CI/CD knowledge is a must
 
 # Responsibilities
 
-* creating and constant improving of a delivery pipelines for various programming environments
+* responsibility for the data infrastructure development, operations and cloud architecture recommendations.
+* working with IaC tools, such as Terraform,
 * sharing knowledge with your colleagues
-* building pipelines in GitHub and GitLab
 
 # About the job
 
